@@ -26,5 +26,4 @@
 > Divides the normalized main object with the comparisons
 > Plots the above to visualize one phase of the eclipse of the object
 
-###this is a change
 
